@@ -4,7 +4,7 @@ This example LINE notify for php.
 
 ## Installation
 
-First, download this project and add your Access Token in line 31 on "index.php".
+First, download this project and add your Access Token in line 29 on "index.php".
 
 ```
 $token = 'ACCESS TOKEN'; // your access token.
