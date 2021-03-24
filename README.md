@@ -1,4 +1,4 @@
-# php-line-notify
+# php-line-notify-example
 
 This example LINE notify for php.
 
